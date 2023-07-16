@@ -1,0 +1,10 @@
+Hev
+1: Number of hours that you worked on this project. You should have spent at least six hours during this lesson.
+	I worked on this project for at minimum of 7 hours, but I know I spent more time than that on it. I can’t remember the exact hours spent. 
+
+2: A list of the documentation that you read, the videos that you watched, and the coding experiments that you tried.
+	I first started looking over all the past assignments that I have done this semester. Within those assignments, I was able to look at useful tips for this project. 
+I used, w3schools.com to help with strings, lists, math help, and functions. I also used this website to troubleshoot some of the issues that I was having with getting my strings and integers to function properly.
+Experiments that I attempted to do this week was to use different kinds of math to get the results that I wanted to achieve within my program. I also used different kinds of while, if, elif, and else statements to work my program in a way that would get the best results.
+3: A description or list of the work that you finished on your program.
+	This week I was ablet to finish my program completely. I was able to troubleshoot the issues that I was having. I was also able experiment with other parts of functions of the program. Lastly, I was able to build and finish my pytest for my program.

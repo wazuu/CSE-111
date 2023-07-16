@@ -1,0 +1,32 @@
+import csv
+
+def read_dict(filename, key_column_index):
+
+
+
+
+
+
+
+
+
+
+
+
+
+def main():
+    #FILE_INDEX = 0
+    PRODUCT_NUM_INDEX = 0
+    QUANTITY_INDEX = 1
+    KEY_REQUEST = 1
+    #indexes for products dict
+    ##FILE_INDEX = 0
+    PRODUCT_NUM_INDEX = 0
+    PRODUCT_NAME_INDEX = 1
+    PRICE_INDEX = 2
+    KEY_PRODUCT = 1
+    
+  
+
+if __name__ == "__main__":
+    main()
